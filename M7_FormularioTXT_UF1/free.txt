@@ -1,0 +1,5 @@
+platano
+fresa
+melon
+sandia
+uvas
